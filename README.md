@@ -1,3 +1,5 @@
+# Developer Note
+This mod will no longer recive updates.
 # TechTopia Utils
 
 This mod adds a small amount of content, such as a very hard boss or custom items and blocks/machines.
